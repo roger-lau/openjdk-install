@@ -20,8 +20,8 @@ Choose your operating system: [Windows](#windows), [Linux](#linux), [Mac](#mac)
 1. Install OpenJDK 1.8
 	##### Method 1 (Easier)
 
-   * Using apt-get: `sudo apt-get install openjdk-8-jdk`
-   * Using yum: `sudo yum install java-1.8.0-openjdk-devel`
+   * Using apt-get (Ubuntu): `sudo apt-get install openjdk-8-jdk`
+   * Using yum (CentOS, Redhat): `sudo yum install java-1.8.0-openjdk-devel`
     
 	##### Method 2
    * Download this file: https://download.java.net/openjdk/jdk8u41/ri/openjdk-8u41-b04-linux-x64-14_jan_2020.tar.gz
